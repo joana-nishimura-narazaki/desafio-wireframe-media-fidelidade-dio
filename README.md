@@ -1,4 +1,5 @@
 # Desafio: Wireframe de Média Fidelidade
+![Uploading wireframe-mid-fi-loja-roupa.jpg…]()
 
 ## ✨ Sobre o Projeto
 

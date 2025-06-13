@@ -18,11 +18,3 @@ Este repositório reúne o desafio proposto pelo curso de UX/UI da DIO: criar um
 
   
 ![Wireframe de média fidelidade](wireframe-desafio-dio.jpg)
-
-
-- **Documentação:** registrar objetivos, decisões de design e justificar escolhas no GitHub.
-
-## 🛠 Tecnologias & Ferramentas
-
-- Figma
-- Git & GitHub  

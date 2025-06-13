@@ -1,5 +1,5 @@
 # Desafio: Wireframe de Média Fidelidade
-![wireframe-desafio-dio.jpg…]()
+![Wireframe de média fidelidade](images/wireframe-desafio-dio.jpg)
 
 ## ✨ Sobre o Projeto
 

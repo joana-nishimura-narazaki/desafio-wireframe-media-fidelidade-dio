@@ -44,10 +44,6 @@ Wireframe de média fidelidade criado no Figma com foco em estrutura, hierarquia
 
 ![Wireframe de média fidelidade](wireframe-desafio-dio.jpg)
 
----
-
-## 🛠 Tecnologias & Ferramentas
-
 - Figma  
 - Git & GitHub
 

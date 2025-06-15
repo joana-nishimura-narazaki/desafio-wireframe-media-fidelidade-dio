@@ -43,10 +43,3 @@ Este repositório reúne o desafio proposto pelo curso de UX/UI da DIO: criar um
 Wireframe de média fidelidade criado no Figma com foco em estrutura, hierarquia e clareza na navegação.
 
 ![Wireframe de média fidelidade](wireframe-desafio-dio.jpg)
-
-- Figma  
-- Git & GitHub
-
-
-  
-![Wireframe de média fidelidade](wireframe-desafio-dio.jpg)
